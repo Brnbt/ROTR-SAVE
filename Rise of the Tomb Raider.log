@@ -1,0 +1,1435 @@
+13:14:22:896 (00018184) > [Startup] Rise of the Tomb Raider
+13:14:22:896 (00018184) > [Startup] ==============
+13:14:22:896 (00018184) > [Startup] 
+13:14:22:896 (00018184) > [Startup] Build: v1.0 build 1027.0_64
+13:14:22:896 (00018184) > [Startup] Windows 10.0 (build 19043)
+13:14:22:896 (00018184) > [Startup] Game directory: C:\Users\briaa\Documents\Rise of the Tomb Raider\
+13:14:22:896 (00018184) > [Startup] 
+13:14:22:896 (00018184) > [Startup] Memory statistics:
+13:14:22:896 (00018184) > [Startup]   Total RAM = 15.9 GB (16332 MB)
+13:14:22:896 (00018184) > [Startup]   Avail RAM = 9.7 GB (9903 MB)
+13:14:22:896 (00018184) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+13:14:22:896 (00018184) > [Startup]   Avail virtual memory = 131064.8 GB (134210332 MB)
+13:14:22:896 (00018184) > [Startup] 
+13:14:22:896 (00018184) > [NxApp] PreInit
+13:14:22:896 (00018184) > [Epic] Initializing Epic SDK.
+13:14:23:109 (00018184) > [Epic] Initialized. Setting Logging Callback ...
+13:14:23:109 (00018184) > [Epic] Logging Callback Set
+13:14:23:109 (00018184) > [Epic] Creating platform.
+13:14:23:286 (00018184) > [Epic] LogEOSOverlay: Overlay loaded and initialized
+13:14:23:342 (00018184) > [Epic] LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started with the correct launcher if you intend to use it.
+13:14:23:344 (00018184) > [Epic] Platform created.
+13:14:23:345 (00018184) > [SwapChain] Initializing...
+13:14:23:345 (00018184) > [DXGI] Initializing...
+13:14:23:348 (00018184) > [DXGI] Created DXGIFactory1
+13:14:23:348 (00018184) > [DXGI] Successfully initialized.
+13:14:23:348 (00018184) > [Render] Enumerating adapters:
+13:14:23:349 (00018184) > [Render] 	Adapter 0:
+13:14:23:350 (00018184) > [Monitor] 		Description             : Radeon RX 580 Series
+13:14:23:350 (00018184) > [Monitor] 		Vendor                  : AMD (1002)
+13:14:23:350 (00018184) > [Monitor] 		Device                  : 67df
+13:14:23:350 (00018184) > [Monitor] 		Sub system              : 22f91458
+13:14:23:350 (00018184) > [Monitor] 		Revision                : 231
+13:14:23:350 (00018184) > [Monitor] 		Dedicated Video Memory  : 4074 MB
+13:14:23:350 (00018184) > [Monitor] 		Dedicated System Memory : 0000 MB
+13:14:23:350 (00018184) > [Monitor] 		Shared System Memory    : 8166 MB
+13:14:23:350 (00018184) > [Monitor] 
+13:14:23:350 (00018184) > [Render] Loading ADL...
+13:14:23:589 (00018184) > [Render] Done loading ADL and AGS
+13:14:23:591 (00018184) > [Render] 	Adapter 1:
+13:14:23:591 (00018184) > [Monitor] 		Description             : Microsoft Basic Render Driver
+13:14:23:591 (00018184) > [Monitor] 		Vendor                  : Unknown (1414)
+13:14:23:591 (00018184) > [Monitor] 		Device                  : 8c
+13:14:23:591 (00018184) > [Monitor] 		Sub system              : 0
+13:14:23:591 (00018184) > [Monitor] 		Revision                : 0
+13:14:23:591 (00018184) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+13:14:23:591 (00018184) > [Monitor] 		Dedicated System Memory : 0000 MB
+13:14:23:591 (00018184) > [Monitor] 		Shared System Memory    : 8166 MB
+13:14:23:591 (00018184) > [Monitor] 
+13:14:23:591 (00018184) > [Render] Enumerating monitors:
+13:14:23:591 (00018184) > [Render] 	Monitor 0: handle = 0000000000010038, aspect = 2.37
+13:14:23:591 (00018184) > [Render] 	Monitor 1: handle = 0000000000020001, aspect = 1.78
+13:14:23:591 (00018184) > [Render] 
+13:14:23:638 (00018184) > [Render] AMD Extension Version: 9.1
+
+13:14:23:638 (00018184) > [Render] AMD HD3D Extension created.
+13:14:23:638 (00018184) > [Render] AMD HD3D failed to initialize. (Most likely cause: there is no 3D support)
+13:14:23:638 (00018184) > [Render] Enumerating Display Modes:
+13:14:23:639 (00018184) > [Render] Querying ADL for Eyefinity modes
+13:14:23:938 (00018184) > [NxDLSS] DLSS support test, code = 0xbad00001, info: NVSDK_NGX_Result_FAIL_FeatureNotSupported
+13:14:23:938 (00018184) > [NxDLSS] DLSS11 support test shutdown failed, error code = 0xbad00007, info: NVSDK_NGX_Result_FAIL_NotInitialized
+13:14:23:938 (00018184) > [Render] 	Monitor '1 (Radeon RX 580 Series(1))' (0000000000010038):
+13:14:23:938 (00018184) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+13:14:23:938 (00018184) > [Render] 		- Mode  1 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0
+13:14:23:938 (00018184) > [Render] 		- Mode  2 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0
+13:14:23:938 (00018184) > [Render] 		- Mode  3 :  800 x  600 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:938 (00018184) > [Render] 		- Mode  4 :  800 x  600 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:938 (00018184) > [Render] 		- Mode  5 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+13:14:23:938 (00018184) > [Render] 		- Mode  6 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0
+13:14:23:938 (00018184) > [Render] 		- Mode  7 : 1024 x  768 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:938 (00018184) > [Render] 		- Mode  8 : 1024 x  768 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:938 (00018184) > [Render] 		- Mode  9 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+13:14:23:938 (00018184) > [Render] 		- Mode 10 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+13:14:23:938 (00018184) > [Render] 		- Mode 11 : 1152 x  864 @  75 Hz, stereo = 0, hdr = 0
+13:14:23:938 (00018184) > [Render] 		- Mode 12 : 1152 x  864 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:938 (00018184) > [Render] 		- Mode 13 : 1152 x  864 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 14 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 15 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 16 : 1280 x  720 @  75 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 17 : 1280 x  720 @  75 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 18 : 1280 x  720 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 19 : 1280 x  720 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 20 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 21 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 22 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 23 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 24 : 1280 x  960 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 25 : 1280 x  960 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 26 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 27 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 28 : 1280 x 1024 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 29 : 1280 x 1024 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 30 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 31 : 1440 x  900 @  75 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 32 : 1440 x  900 @  75 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 33 : 1440 x  900 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 34 : 1440 x  900 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 35 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 36 : 1600 x  900 @  75 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 37 : 1600 x  900 @  75 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 38 : 1600 x  900 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 39 : 1600 x  900 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 40 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 41 : 1680 x 1050 @  75 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 42 : 1680 x 1050 @  75 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 43 : 1680 x 1050 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 44 : 1680 x 1050 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 45 : 1920 x  820 @  50 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 46 : 1920 x  820 @  50 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 47 : 1920 x  820 @  60 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 48 : 1920 x  820 @  60 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 49 : 1920 x  820 @  75 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 50 : 1920 x  820 @  75 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 51 : 1920 x  820 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 52 : 1920 x  820 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 53 : 1920 x  820 @  60 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 54 : 1920 x  820 @  60 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 55 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 56 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 57 : 1920 x 1080 @  75 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 58 : 1920 x 1080 @  75 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 59 : 1920 x 1080 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 60 : 1920 x 1080 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 61 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 62 : 2560 x 1080 @  60 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 63 : 2560 x 1080 @  75 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] 		- Mode 64 : 2560 x 1080 @ 100 Hz, stereo = 0, hdr = 0
+13:14:23:939 (00018184) > [Render] Querying ADL for Eyefinity modes
+13:14:24:236 (00018184) > [NxDLSS] DLSS support test, code = 0xbad00001, info: NVSDK_NGX_Result_FAIL_FeatureNotSupported
+13:14:24:236 (00018184) > [NxDLSS] DLSS11 support test shutdown failed, error code = 0xbad00007, info: NVSDK_NGX_Result_FAIL_NotInitialized
+13:14:24:236 (00018184) > [Render] 	Monitor '2 (Radeon RX 580 Series(1))' (0000000000020001):
+13:14:24:236 (00018184) > [Render] 		- Mode  0 :  800 x  600 @  56 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode  1 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode  2 :  800 x  600 @  72 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode  3 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode  4 :  832 x  624 @  75 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode  5 :  832 x  624 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode  6 :  832 x  624 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode  7 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode  8 : 1024 x  768 @  70 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode  9 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode 10 : 1152 x  864 @  75 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode 11 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode 12 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode 13 : 1152 x  872 @  75 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode 14 : 1152 x  872 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode 15 : 1152 x  872 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode 16 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode 17 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode 18 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode 19 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode 20 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode 21 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode 22 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode 23 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode 24 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode 25 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode 26 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode 27 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:236 (00018184) > [Render] 		- Mode 28 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:237 (00018184) > [Render] 		- Mode 29 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0
+13:14:24:237 (00018184) > [Render] 		- Mode 30 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:237 (00018184) > [Render] 		- Mode 31 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+13:14:24:237 (00018184) > [Render] 
+13:14:24:237 (00018184) > [SwapChain] Successfully initialized.
+13:14:24:237 (00018184) > [NxApp] PreInit successful.
+13:14:24:237 (00018184) > [Main] Current directory: E:\RiseoftheTombRaider
+13:14:24:237 (00018184) > [Main] Working directory: E:\RiseoftheTombRaider
+13:14:24:267 (00018184) > [MultiCore] CPU count: logical = 12
+13:14:24:405 (00018184) > [Main] Epic Language: '(null)'
+13:14:24:405 (00018184) > [Main] Settings: Text Language: 'fr-fr' | VO Language: 'fr-fr' | Steam Game Language 'fr-fr'
+13:14:24:406 (00018184) > [Main] Using: Text Language: 'fr-fr' | VO Language: 'fr-fr'
+13:14:24:742 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:14:52:804 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:14:52:855 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:14:52:860 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:14:52:872 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:14:52:889 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:14:52:893 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:14:52:955 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:14:52:958 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:14:52:965 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:14:52:965 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:14:52:965 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:14:52:966 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:14:58:151 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:14:58:151 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:14:58:151 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:14:58:151 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:15:01:122 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:15:01:126 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:15:03:439 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:15:03:916 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:15:05:903 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:15:05:906 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:15:11:266 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:15:11:269 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:15:21:920 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:15:21:924 (00018184) > [D3D] Initializing...
+13:15:21:935 (00018184) > [Render] AMD: Released AMD Extension.
+13:15:21:936 (00018184) > [D3D] Loaded d3d11.dll
+13:15:21:936 (00018184) > [D3D] Obtained D3D11CreateDevice address
+13:15:21:936 (00018184) > [D3D] Successfully initialized
+13:15:21:961 (00018184) > [D3D] Max supported feature level: 11.0
+13:15:21:961 (00002868) > [D3D] Creating D3D Device...
+13:15:21:961 (00002868) > [SwapChain] Creating D3D on adapter '1 (Radeon RX 580 Series(1))'.
+13:15:21:989 (00002868) > [SwapChain] Created D3D device with feature level 11.0.
+13:15:22:013 (00002868) > [D3D] Successfully created.
+13:15:22:013 (00018184) > [NxApp] Querying GPU Driver Info...
+13:15:22:014 (00018184) > [NxApp] Enumerating available display adapters:
+13:15:22:015 (00018184) > [NxApp] 		Radeon RX 580 Series (active)
+13:15:22:016 (00018184) > [NxApp] Successfully found GPU Driver Info
+13:15:22:016 (00018184) > [NxApp] Driver Desc: Radeon RX 580 Series
+13:15:22:016 (00018184) > [NxApp] Driver Version: 30.0.15021.1001
+13:15:22:016 (00018184) > [Settings] DirectX Version: 11
+13:15:22:016 (00018184) > [Settings] Window mode:
+13:15:22:016 (00018184) > [Settings] 	Fullscreen: 1
+13:15:22:016 (00018184) > [Settings] 	Excl.Fullscreen: 1
+13:15:22:016 (00018184) > [Settings] 	Monitor: 0
+13:15:22:016 (00018184) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
+13:15:22:016 (00018184) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1050
+13:15:22:016 (00018184) > [Settings] 		Aspect Ratio: 2.372822 (Pixel Aspect Ratio: 0.998967)
+13:15:22:016 (00018184) > [Settings] Fullscreen display mode:
+13:15:22:016 (00018184) > [Settings] 	Display mode: 2560x1080@60
+13:15:22:016 (00018184) > [Settings] 		VSync: 1, TripleBuffer: 0
+13:15:22:016 (00018184) > [Settings] 		MultiMonitor: 0
+13:15:22:016 (00018184) > [Settings] 		BezelCorrected: 0
+13:15:22:016 (00018184) > [Settings] 		Stereoscopic3D: 0
+13:15:22:016 (00018184) > [Settings] Window settings:
+13:15:22:016 (00018184) > [Settings] 	Window rect: x: 560 y: 135 w: 1440 h: 810
+13:15:22:016 (00018184) > [Settings] 	User window: w: 1440 h: 810
+13:15:22:016 (00018184) > [Settings] 	Window maximized: 0
+13:15:22:016 (00018184) > [Settings] Graphics Options:
+13:15:22:016 (00018184) > [Settings] 	TextureQuality: 2, TextureFiltering: 2, ShadowQuality: 2
+13:15:22:016 (00018184) > [Settings] 	AO: 1, DOF: 1, FXAA: 0, SMAA: 0, SSAA: 0, Bloom: 1
+13:15:22:016 (00018184) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
+13:15:22:016 (00018184) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
+13:15:22:016 (00018184) > [Settings] 	Specular Reflection Quality: 0
+13:15:22:016 (00018184) > [Settings] 	FoliageQuality: 1
+13:15:22:016 (00018184) > [Settings] 	FOVCorrection :1.000000
+13:15:22:016 (00018184) > [Settings] 	LevelOfDetail: 2
+13:15:22:016 (00018184) > [Settings] 	StereoSeparation: 0.022500
+13:15:22:016 (00018184) > [Settings] 	StereoPopOut: 5.000000
+13:15:22:016 (00018184) > [Settings] 	StereoNearSeparationMultiplier :0.350000
+13:15:22:016 (00018184) > [NxApp] Creating window...
+13:15:22:019 (00014908) > [GameWindow] UpdateState bVisible true
+13:15:22:032 (00014908) > [Input] Keyboard language: "Français (France)" (id: 1036)
+13:15:22:032 (00014908) > [Input] Keyboard physical layout: "French" (id: 0000040C)
+13:15:22:032 (00014908) > [Input] Joystick            ""   product 767 vendor 1118 version 0 usage 5 usagePage 1 xinput yes
+13:15:22:032 (00014908) > [Input] Joystick            ""   product 12934 vendor 1578 version 791 usage 61938 usagePage 61938 xinput no
+13:15:22:033 (00014908) > [Input] Joystick            ""   product 12934 vendor 1578 version 791 usage 1 usagePage 12 xinput no
+13:15:22:033 (00014908) > [Input] Joystick            ""   product 64035 vendor 9639 version 577 usage 136 usagePage 65468 xinput no
+13:15:22:033 (00014908) > [Input] Joystick            ""   product 2716 vendor 1133 version 8288 usage 514 usagePage 65347 xinput no
+13:15:22:033 (00014908) > [Input] Joystick            ""   product 2716 vendor 1133 version 8288 usage 5 usagePage 11 xinput no
+13:15:22:033 (00014908) > [Input] Joystick            ""   product 64035 vendor 9639 version 577 usage 1 usagePage 12 xinput no
+13:15:22:033 (00014908) > [Input] Joystick            ""   product 2716 vendor 1133 version 8288 usage 1 usagePage 12 xinput no
+13:15:22:033 (00014908) > [Input] Joystick            ""   product 49291 vendor 1133 version 9987 usage 2 usagePage 65280 xinput no
+13:15:22:033 (00014908) > [Input] Joystick            ""   product 49291 vendor 1133 version 9987 usage 1 usagePage 65280 xinput no
+13:15:22:033 (00014908) > [Input] Joystick            ""   product 64035 vendor 9639 version 577 usage 0 usagePage 65281 xinput no
+13:15:22:033 (00014908) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 47820 vendor 255 version 1 usage 1 usagePage 65280
+13:15:22:034 (00014908) > [Input] Joystick            ""   product 49291 vendor 1133 version 9987 usage 1 usagePage 12 xinput no
+13:15:22:034 (00014908) > [Input] Human Input Device  "HID-compliant digitizer"   product 47820 vendor 255 version 1 usage 1 usagePage 13
+13:15:22:034 (00014908) > [Input] Joystick            ""   product 8233 vendor 6493 version 265 usage 1 usagePage 12 xinput no
+13:15:22:034 (00014908) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 110
+13:15:22:034 (00014908) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 173
+13:15:22:034 (00014908) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+13:15:22:034 (00014908) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+13:15:22:035 (00014908) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 240
+13:15:22:035 (00014908) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+13:15:22:035 (00014908) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+13:15:22:035 (00014908) > [Input] Mouse               "HID-Compliant Mouse"   id 128 buttons 3 sampleRate 0 horizontalWheel no
+13:15:22:035 (00014908) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+13:15:22:035 (00014908) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 16 sampleRate 0 horizontalWheel no
+13:15:22:035 (00014908) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+13:15:22:041 (00014908) > [Input] Gamepads connected: 0 -> 1
+13:15:22:041 (00014908) > [Input] Gamepad for main player: 0
+13:15:22:044 (00018184) > [NxApp] Window created.
+13:15:22:044 (00018184) > [NxApp] Initializing swapchain...
+13:15:22:044 (00002868) > [SwapChain] Creating...
+13:15:22:045 (00002868) > [Render] AMD Extension Version: 9.1
+
+13:15:22:045 (00002868) > [Render] AMD HD3D Extension created.
+13:15:22:045 (00002868) > [Render] AMD HD3D failed to initialize. (Most likely cause: there is no 3D support)
+13:15:22:045 (00002868) > [VR] VR Released.
+13:15:22:048 (00002868) > [DXGI] Created swapchain.
+13:15:23:486 (00002868) > [DXGI] Set-up exclusive fullscreen 
+13:15:23:487 (00002868) > [SwapChain] Gamma correction is enabled.
+13:15:23:487 (00002868) > [SwapChain] Successfully created.
+13:15:23:506 (00018184) > [NxApp] Swapchain initialized
+13:15:23:506 (00018184) > [NxApp] Initializing renderer...
+13:15:23:508 (00018184) > [NxApp] Renderer initialized
+13:15:23:508 (00018184) > [Render] CROSSFIRE GPU count query failed, no multi-gpu optimizations.
+13:15:23:509 (00018184) > [Main] Starting Tomb Raider v1.0 build 1027.0_64
+13:15:23:563 (00018184) > [D3D] [Render] PCDX11DeviceManager constructor start
+13:15:23:567 (00018184) > [D3D] D3D Adapter Information:
+13:15:23:567 (00018184) > [D3D] Adapter Description: Radeon RX 580 Series
+13:15:23:567 (00018184) > [D3D] VendorID: 1002
+13:15:23:567 (00018184) > [D3D] DeviceID: 67df
+13:15:23:567 (00018184) > [D3D] Revision: e7
+13:15:23:567 (00018184) > [D3D] 
+ATIAGSGetDefaultDisplayIndex says 0.
+
+13:15:23:572 (00018184) > [D3D] CROSSFIRE GPU count 1.
+
+13:15:23:681 (00018184) > [VXGI] This hardware does not support VXGI. Only supported on Maxwell 2 or higher.
+13:15:23:742 (00018184) > [HBAO+] HBAO+ Context creation succeeded
+13:15:25:542 (00018184) > [D3D] D3D Adapter Information:
+13:15:25:542 (00018184) > [D3D] Adapter Description: Microsoft Basic Render Driver
+13:15:25:542 (00018184) > [D3D] VendorID: 1414
+13:15:25:542 (00018184) > [D3D] DeviceID: 8c
+13:15:25:542 (00018184) > [D3D] Revision: 0
+13:15:25:548 (00018184) > [VXGI] This hardware does not support VXGI. Only supported on Maxwell 2 or higher.
+13:15:25:555 (00018184) > [HBAO+] HBAO+ Context creation succeeded
+13:15:25:582 (00018184) > [D3D] [Render] Adapter M has no outputs!
+13:15:25:582 (00018184) > [D3D] [Render] PCDX11DeviceManager constructor end
+13:15:25:582 (00018184) > [D3D] D3D Adapter Information:
+13:15:25:582 (00018184) > [D3D] Adapter Description: Radeon RX 580 Series
+13:15:25:582 (00018184) > [D3D] VendorID: 1002
+13:15:25:582 (00018184) > [D3D] DeviceID: 67df
+13:15:25:582 (00018184) > [D3D] Revision: e7
+13:15:25:583 (00018184) > [D3D] 
+ATIAGSGetDefaultDisplayIndex says 0.
+
+13:15:25:587 (00018184) > [D3D] CROSSFIRE GPU count 1.
+
+13:15:25:592 (00018184) > [VXGI] This hardware does not support VXGI. Only supported on Maxwell 2 or higher.
+13:15:25:600 (00018184) > [HBAO+] HBAO+ Context creation succeeded
+13:15:26:169 (00018184) > [Sound] Initalizing audio...
+13:15:26:326 (00018184) > [Sound] Audio device found. FMOD reports 1 driver(s).
+13:15:26:326 (00018184) > [Sound] Audio Driver Name: Haut-parleurs (Logitech G432 Gaming Headset)
+13:15:26:326 (00018184) > [Sound] Speaker Mode: 6
+13:15:27:597 (00018184) > [Input] Assigned gamepad 0 to player 0
+13:15:28:666 (00018184) > [Epic] LogEOSOverlay: Probing swap chain to determine device version
+13:15:28:666 (00018184) > [Epic] LogEOSOverlay: Probe complete, determined: D3D11
+13:15:28:666 (00018184) > [Epic] LogEOSOverlay: Window subclass attached to 00000000000A15F0
+13:15:28:666 (00018184) > [Epic] LogEOSOverlay: Creating overlay widget manager
+13:15:28:666 (00018184) > [Epic] LogEOSOverlay: Launching render process
+13:15:28:666 (00018184) > [Epic] LogEOSOverlay: Overlay ready. Firing 1 OnReady handlers
+13:15:28:666 (00018184) > [Epic] LogEOSOverlay: Tick thread starting...
+13:15:28:666 (00018184) > [Epic] LogEOS: Large tick time detected 65.3166
+13:15:28:666 (00018184) > [Epic] LogEOS: Updating Platform SDK Config, Time: 65.316566
+13:15:30:643 (00011112) > [Settings] New display settings are:
+13:15:30:643 (00011112) > [Settings] DirectX Version: 11
+13:15:30:643 (00011112) > [Settings] Window mode:
+13:15:30:643 (00011112) > [Settings] 	Fullscreen: 1
+13:15:30:643 (00011112) > [Settings] 	Excl.Fullscreen: 1
+13:15:30:643 (00011112) > [Settings] 	Monitor: 0
+13:15:30:643 (00011112) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
+13:15:30:643 (00011112) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1050
+13:15:30:643 (00011112) > [Settings] 		Aspect Ratio: 2.372822 (Pixel Aspect Ratio: 0.998967)
+13:15:30:643 (00011112) > [Settings] Fullscreen display mode:
+13:15:30:643 (00011112) > [Settings] 	Display mode: 2560x1080@60
+13:15:30:643 (00011112) > [Settings] 		VSync: 1, TripleBuffer: 0
+13:15:30:643 (00011112) > [Settings] 		MultiMonitor: 0
+13:15:30:643 (00011112) > [Settings] 		BezelCorrected: 0
+13:15:30:643 (00011112) > [Settings] 		Stereoscopic3D: 0
+13:15:30:643 (00011112) > [Settings] Window settings:
+13:15:30:643 (00011112) > [Settings] 	Window rect: x: 560 y: 135 w: 1440 h: 810
+13:15:30:643 (00011112) > [Settings] 	User window: w: 1440 h: 810
+13:15:30:643 (00011112) > [Settings] 	Window maximized: 0
+13:15:30:643 (00011112) > [Settings] Graphics Options:
+13:15:30:643 (00011112) > [Settings] 	TextureQuality: 2, TextureFiltering: 2, ShadowQuality: 2
+13:15:30:643 (00011112) > [Settings] 	AO: 1, DOF: 1, FXAA: 0, SMAA: 0, SSAA: 0, Bloom: 1
+13:15:30:643 (00011112) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
+13:15:30:643 (00011112) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
+13:15:30:643 (00011112) > [Settings] 	Specular Reflection Quality: 0
+13:15:30:643 (00011112) > [Settings] 	FoliageQuality: 1
+13:15:30:643 (00011112) > [Settings] 	FOVCorrection :1.000000
+13:15:30:643 (00011112) > [Settings] 	LevelOfDetail: 2
+13:15:30:643 (00011112) > [Settings] 	StereoSeparation: 0.022500
+13:15:30:643 (00011112) > [Settings] 	StereoPopOut: 5.000000
+13:15:30:643 (00011112) > [Settings] 	StereoNearSeparationMultiplier :0.350000
+13:15:30:643 (00011112) > [Settings] End of settings.
+13:15:30:643 (00011112) > [Render] CROSSFIRE GPU count query failed, no multi-gpu optimizations.
+13:15:30:643 (00011112) > [NxApp (Render Thread)] Finished enforcing display settings
+13:15:30:643 (00018184) > [NxApp] Finished enforcing display settings
+13:15:30:644 (00018184) > [Epic] LogEOSAuth: No valid auth for userid = 5b4...3d8
+13:15:30:644 (00018184) > [Epic] LogEOSAuth: No valid auth for userid = 5b4...3d8
+13:15:30:644 (00018184) > [Epic] LogEOSAuth: No valid auth for userid = 5b4...3d8
+13:15:30:644 (00018184) > [Epic] LogEOSAuth: No valid auth for userid = 5b4...3d8
+13:15:30:712 (00018184) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+13:15:30:721 (00018184) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+13:15:30:721 (00018184) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+13:15:30:721 (00018184) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+13:15:31:401 (00018184) > [Epic] LogEOS: SDK Config Platform Update Request Successful, Time: 68.035286
+13:15:31:428 (00018184) > [Epic] LogEOSAnalytics: Start Session (User: ...)
+13:15:31:428 (00018184) > [Epic] LogEOSAnalytics: Record Event: SDKOverlayComponent.Init <Redacted>
+13:15:31:428 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.OverlayLoaded <Redacted>
+13:15:31:428 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.SwapchainDetour <Redacted>
+13:15:31:428 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.FactoryDetour <Redacted>
+13:15:31:428 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.ObserveBrowserStatus <Redacted>
+13:15:31:428 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.RegisterKeyListener <Redacted>
+13:15:31:428 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.GraphicsDeviceCreated <Redacted>
+13:15:31:428 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.GraphicsDeviceCreated <Redacted>
+13:15:31:428 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.OverlayInitialized <Redacted>
+13:15:31:428 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.LaunchRenderProcess <Redacted>
+13:15:31:428 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.RegisterJSBindings <Redacted>
+13:15:31:428 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.SwapChainCreated <Redacted>
+13:15:31:428 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:15:31:428 (00018184) > [Epic] WARNING: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+13:15:31:438 (00018184) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+13:15:31:438 (00018184) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+13:15:31:438 (00018184) > [Epic] LogEOS: Updating Product SDK Config, Time: 68.054840
+13:15:31:438 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.RegisterJSBindings <Redacted>
+13:15:31:561 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:15:31:570 (00018184) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+13:15:31:582 (00018184) > [Epic] LogEOSAnalytics: Start Session (User: ...)
+13:15:31:691 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:15:31:701 (00018184) > [Epic] LogEOS: SDK Config Product Update Request Successful, Time: 68.345177
+13:15:31:704 (00018184) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+13:15:31:704 (00018184) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+13:15:31:704 (00018184) > [Epic] LogEOS: SDK Config Data - Watermark: 662456470
+13:15:31:704 (00018184) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 68.345177, Update Interval: 319.135101
+13:15:31:882 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:15:31:894 (00018184) > [Epic] LogEOSAuth: UserAuth Success
+13:15:31:901 (00018184) > [Epic] LogEOSAuth: NewUserToken: User ClientId: xyz...DIR AccountId: 5b4...3d8 Access[Expires: 2022.04.25-13.15.31 Remaining: 7200.87] Refresh[Expires: 2022-04-25T19:15:31.879Z Remaining: 28800.88] State: Valid
+13:15:31:925 (00018184) > [Epic] LogEOSAuth: GenerateUserAuth success
+13:15:32:069 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:15:32:069 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:15:32:076 (00018184) > [Epic] LogEOSAuth: login/queryuserinfo success
+13:15:32:077 (00018184) > [Epic] LogEOSUI: Social Overlay: 'leaderboards' feature disabled by overlay.
+13:15:32:079 (00018184) > [Epic] Main user login status changed
+13:15:32:079 (00018184) > [Epic] LogEOSAuth: Login Tasks Complete: 0
+13:15:32:142 (00018184) > [Epic] LogEOSUI: Social Overlay: Loading: <Redacted>
+13:15:32:142 (00018184) > [Epic] LogEOSUI: Social Overlay: Initital DisplaySettings{ Visible(FALSE) ExclusiveInput(FALSE) HitBox(unset) }
+13:15:32:142 (00018184) > [Epic] LogEOSOverlay: Overlay loading <Redacted> in instance 2113752297424
+13:15:32:142 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.LoadURL <Redacted>
+13:15:32:162 (00018184) > [Epic] LogEOSOverlay: LoadURL result received. [Success=1, BrowserID=1]
+13:15:32:162 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.RenderProcess.LoadURL <Redacted>
+13:15:32:162 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.LoadURLResult <Redacted>
+13:15:32:162 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.RenderProcess.BrowserCreated <Redacted>
+13:15:32:162 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.RenderProcess.ConnectBrowserAndRenderProcesses <Redacted>
+13:15:32:174 (00018184) > [Epic] LogEOSOverlay: Browser status 0 received for browser 1
+13:15:32:174 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.BrowserStatus <Redacted>
+13:15:32:231 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:15:32:243 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:15:32:258 (00018184) > [Epic] LogEOSMessaging: Attempting connection to Stomp. LocalUserId=[000...65b] Url=[<Redacted>]
+13:15:32:408 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:15:32:421 (00018184) > [Epic] LogEOSP2P: Applying updated RTC Configuration
+13:15:32:520 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:15:32:821 (00018184) > [Epic] LogEOSMessaging: Succesfully connected to Stomp. LocalUserId=[000...65b]
+13:15:32:931 (00018184) > [Epic] LogEOSPresence: Updating Presence to Online. LocalUserId=[5b4...3d8] RichText=[]
+13:15:32:956 (00018184) > [Epic] LogEOSMessaging: Stomp subscribed to topic /3976af33daf443f5b08526d7d5ffb86a/account/00028292e7394fa4ae9f6b964d2c565b
+13:15:33:104 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:15:33:121 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements refreshing player data for (5b4...3d8) [state: 0, force: player? false, definitions? false].
+13:15:33:121 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements data incomplete, starting next refresh for (5b4...3d8).
+13:15:33:121 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements refreshing definition data for (5b4...3d8) [state: 2, force: player? false, definitions? false].
+13:15:33:455 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.RenderProcess.JavascriptContextCreated <Redacted>
+13:15:34:190 (00018184) > [Epic] LogEOSOverlay: Browser status 1 received for browser 1
+13:15:34:190 (00018184) > [Epic] LogEOSUI: Social Overlay: Initial setup of friends overlay: EOS_Success
+13:15:34:190 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.RenderProcess.FrameLoadEnd <Redacted>
+13:15:34:190 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.BrowserStatus <Redacted>
+13:15:34:239 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:34:239 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:34:270 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:34:270 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:34:279 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:34:279 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:34:279 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:34:279 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:34:379 (00018184) > [Epic] LogEOSUI: Social Overlay: HandleDisplayUpdateIntent
+13:15:34:379 (00018184) > [Epic] LogEOSUI: Social Overlay: DisplayUpdateIntent{ Visible(FALSE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+13:15:34:379 (00018184) > [Epic] LogEOSUI: Social Overlay: New DisplaySettings{ Visible(FALSE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+13:15:34:392 (00018184) > [Epic] LogEOSAnalytics: Record Event: eos.social.overlayopentime <Redacted>
+13:15:34:392 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:34:392 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:34:392 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:34:392 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:34:392 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.SetDisplaySettings <Redacted>
+13:15:34:393 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:34:393 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:34:420 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:34:420 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:34:439 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:15:34:442 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:15:34:460 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:15:34:652 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:15:34:656 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements populated for (5b4...3d8).
+13:15:34:657 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:34:657 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:34:657 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:34:657 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:34:657 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:15:34:657 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:34:657 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:34:657 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:34:657 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:34:688 (00018184) > [Epic] LogEOSUI: Social Overlay: HandleDisplayUpdateIntent
+13:15:34:688 (00018184) > [Epic] LogEOSUI: Social Overlay: DisplayUpdateIntent{ Visible(TRUE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+13:15:34:688 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements refreshing player data for (5b4...3d8) [state: 1, force: player? false, definitions? false].
+13:15:34:688 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements data incomplete, starting next refresh for (5b4...3d8).
+13:15:34:688 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements refreshing definition data for (5b4...3d8) [state: 2, force: player? false, definitions? false].
+13:15:34:689 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements populated for (5b4...3d8).
+13:15:34:689 (00018184) > [Epic] LogEOSUI: Social Overlay: New DisplaySettings{ Visible(TRUE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+13:15:34:689 (00018184) > [Epic] LogEOSAnalytics: Record Event: eos.social.appstartup <Redacted>
+13:15:34:689 (00018184) > [Epic] LogEOSAnalytics: Record Event: eos.social.heartbeat <Redacted>
+13:15:34:689 (00018184) > [Epic] LogEOSAnalytics: Record Event: eos.social.settingschanged <Redacted>
+13:15:34:689 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:34:689 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:34:689 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:34:689 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:34:689 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.SetDisplaySettings <Redacted>
+13:15:34:689 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:34:689 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:34:690 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:34:690 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:34:713 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:15:34:717 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:15:34:728 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:15:34:737 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:15:34:758 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:34:758 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:34:804 (00018184) > [Epic] LogEOSAnalytics: Record Event: eos.social.settingschanged <Redacted>
+13:15:34:804 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:34:804 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:34:809 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:15:34:821 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:15:34:839 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:15:34:839 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:15:34:871 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:15:34:879 (00018184) > [Epic] LogEOSOverlay: Received new texture handle. [Type=0, InstanceId=2113752297424, BrowserId=1, TabId=0, Previous=0000000000000000, New=00000000C0001102]
+13:15:34:879 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.InitialTextureReceived <Redacted>
+13:15:35:071 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:35:071 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:35:071 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:15:35:253 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:35:253 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:35:288 (00018184) > [Epic] LogEOSAnalytics: Record Event: eos.social.settingschanged <Redacted>
+13:15:35:288 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:35:288 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:35:304 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:15:35:308 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:15:35:308 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:15:35:320 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:15:38:752 (00018184) > [Menu] UiMenuStateSquareEnixMembers::OnEnter: bFromStartupFlow=1, HasSEMBeenHandled=1, bIsOnline=1
+13:15:41:683 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:41:683 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:41:730 (00018184) > [Epic] LogEOSUI: Social Overlay: HandleDisplayUpdateIntent
+13:15:41:730 (00018184) > [Epic] LogEOSUI: Social Overlay: DisplayUpdateIntent{ Visible(FALSE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+13:15:41:730 (00018184) > [Epic] LogEOSUI: Social Overlay: New DisplaySettings{ Visible(FALSE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+13:15:41:730 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:15:41:730 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.SetDisplaySettings <Redacted>
+13:15:41:730 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:15:41:740 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:15:41:750 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:15:41:760 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:15:41:760 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:15:43:220 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:15:52:609 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:16:23:487 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:16:26:127 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:16:26:127 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:16:26:358 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:16:26:482 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:16:31:387 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:16:31:387 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:16:31:567 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:16:31:567 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:16:31:906 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:16:31:910 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:16:32:077 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:16:32:087 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:16:32:248 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:16:32:536 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:16:32:933 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:16:34:872 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:16:52:610 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:17:05:028 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:17:05:211 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:17:05:212 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:17:05:378 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:17:05:515 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:17:07:762 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:07:762 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:07:762 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:07:762 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:07:762 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:15:833 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:15:833 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:15:833 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:15:833 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:15:833 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:15:833 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:15:833 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:15:876 (00011112) > [Settings] New display settings are:
+13:17:15:876 (00011112) > [Settings] DirectX Version: 11
+13:17:15:876 (00011112) > [Settings] Window mode:
+13:17:15:876 (00011112) > [Settings] 	Fullscreen: 1
+13:17:15:876 (00011112) > [Settings] 	Excl.Fullscreen: 1
+13:17:15:876 (00011112) > [Settings] 	Monitor: 0
+13:17:15:876 (00011112) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
+13:17:15:876 (00011112) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1050
+13:17:15:876 (00011112) > [Settings] 		Aspect Ratio: 2.372822 (Pixel Aspect Ratio: 0.998967)
+13:17:15:876 (00011112) > [Settings] Fullscreen display mode:
+13:17:15:876 (00011112) > [Settings] 	Display mode: 2560x1080@60
+13:17:15:876 (00011112) > [Settings] 		VSync: 1, TripleBuffer: 0
+13:17:15:876 (00011112) > [Settings] 		MultiMonitor: 0
+13:17:15:876 (00011112) > [Settings] 		BezelCorrected: 0
+13:17:15:876 (00011112) > [Settings] 		Stereoscopic3D: 0
+13:17:15:876 (00011112) > [Settings] Window settings:
+13:17:15:876 (00011112) > [Settings] 	Window rect: x: 560 y: 135 w: 1440 h: 810
+13:17:15:876 (00011112) > [Settings] 	User window: w: 1440 h: 810
+13:17:15:876 (00011112) > [Settings] 	Window maximized: 0
+13:17:15:876 (00011112) > [Settings] Graphics Options:
+13:17:15:876 (00011112) > [Settings] 	TextureQuality: 2, TextureFiltering: 2, ShadowQuality: 1
+13:17:15:876 (00011112) > [Settings] 	AO: 1, DOF: 1, FXAA: 0, SMAA: 0, SSAA: 0, Bloom: 1
+13:17:15:876 (00011112) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
+13:17:15:876 (00011112) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
+13:17:15:876 (00011112) > [Settings] 	Specular Reflection Quality: 0
+13:17:15:876 (00011112) > [Settings] 	FoliageQuality: 1
+13:17:15:876 (00011112) > [Settings] 	FOVCorrection :1.000000
+13:17:15:876 (00011112) > [Settings] 	LevelOfDetail: 2
+13:17:15:876 (00011112) > [Settings] 	StereoSeparation: 0.022500
+13:17:15:876 (00011112) > [Settings] 	StereoPopOut: 5.000000
+13:17:15:876 (00011112) > [Settings] 	StereoNearSeparationMultiplier :0.350000
+13:17:15:876 (00011112) > [Settings] End of settings.
+13:17:15:876 (00011112) > [Render] CROSSFIRE GPU count query failed, no multi-gpu optimizations.
+13:17:15:876 (00011112) > [NxApp (Render Thread)] Finished enforcing display settings
+13:17:15:882 (00018184) > [NxApp] Finished enforcing display settings
+13:17:15:882 (00018184) > [D3D] DX11RenderContext:---OnSettingsChanged ---
+13:17:15:882 (00018184) > [D3D] PCDX11SwapChain::Resize(2560, 1080, False)
+13:17:15:882 (00018184) > [D3D] PCDX11SwapChain::Resize no change
+13:17:16:842 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:16:842 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:16:842 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:16:842 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:16:842 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:16:842 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:16:883 (00011112) > [Settings] New display settings are:
+13:17:16:883 (00011112) > [Settings] DirectX Version: 11
+13:17:16:883 (00011112) > [Settings] Window mode:
+13:17:16:883 (00011112) > [Settings] 	Fullscreen: 1
+13:17:16:883 (00011112) > [Settings] 	Excl.Fullscreen: 1
+13:17:16:883 (00011112) > [Settings] 	Monitor: 0
+13:17:16:883 (00011112) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
+13:17:16:883 (00011112) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1050
+13:17:16:883 (00011112) > [Settings] 		Aspect Ratio: 2.372822 (Pixel Aspect Ratio: 0.998967)
+13:17:16:883 (00011112) > [Settings] Fullscreen display mode:
+13:17:16:883 (00011112) > [Settings] 	Display mode: 2560x1080@60
+13:17:16:883 (00011112) > [Settings] 		VSync: 1, TripleBuffer: 0
+13:17:16:883 (00011112) > [Settings] 		MultiMonitor: 0
+13:17:16:883 (00011112) > [Settings] 		BezelCorrected: 0
+13:17:16:883 (00011112) > [Settings] 		Stereoscopic3D: 0
+13:17:16:883 (00011112) > [Settings] Window settings:
+13:17:16:883 (00011112) > [Settings] 	Window rect: x: 560 y: 135 w: 1440 h: 810
+13:17:16:883 (00011112) > [Settings] 	User window: w: 1440 h: 810
+13:17:16:883 (00011112) > [Settings] 	Window maximized: 0
+13:17:16:883 (00011112) > [Settings] Graphics Options:
+13:17:16:883 (00011112) > [Settings] 	TextureQuality: 2, TextureFiltering: 2, ShadowQuality: 2
+13:17:16:883 (00011112) > [Settings] 	AO: 1, DOF: 1, FXAA: 0, SMAA: 0, SSAA: 0, Bloom: 1
+13:17:16:883 (00011112) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
+13:17:16:883 (00011112) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
+13:17:16:883 (00011112) > [Settings] 	Specular Reflection Quality: 0
+13:17:16:883 (00011112) > [Settings] 	FoliageQuality: 1
+13:17:16:883 (00011112) > [Settings] 	FOVCorrection :1.000000
+13:17:16:883 (00011112) > [Settings] 	LevelOfDetail: 2
+13:17:16:883 (00011112) > [Settings] 	StereoSeparation: 0.022500
+13:17:16:883 (00011112) > [Settings] 	StereoPopOut: 5.000000
+13:17:16:883 (00011112) > [Settings] 	StereoNearSeparationMultiplier :0.350000
+13:17:16:883 (00011112) > [Settings] End of settings.
+13:17:16:883 (00011112) > [Render] CROSSFIRE GPU count query failed, no multi-gpu optimizations.
+13:17:16:883 (00011112) > [NxApp (Render Thread)] Finished enforcing display settings
+13:17:16:885 (00018184) > [NxApp] Finished enforcing display settings
+13:17:16:885 (00018184) > [D3D] DX11RenderContext:---OnSettingsChanged ---
+13:17:16:885 (00018184) > [D3D] PCDX11SwapChain::Resize(2560, 1080, False)
+13:17:16:885 (00018184) > [D3D] PCDX11SwapChain::Resize no change
+13:17:17:254 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:17:255 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:17:255 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:17:255 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:17:255 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:17:255 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:17:255 (00018184) > [Validate Settings] Desktop settings (Resolution: 2560 x 1080, Multi-monitor: off, Bezel correction: off)
+13:17:17:296 (00011112) > [Settings] New display settings are:
+13:17:17:296 (00011112) > [Settings] DirectX Version: 11
+13:17:17:296 (00011112) > [Settings] Window mode:
+13:17:17:296 (00011112) > [Settings] 	Fullscreen: 1
+13:17:17:296 (00011112) > [Settings] 	Excl.Fullscreen: 1
+13:17:17:296 (00011112) > [Settings] 	Monitor: 0
+13:17:17:296 (00011112) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
+13:17:17:296 (00011112) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1050
+13:17:17:296 (00011112) > [Settings] 		Aspect Ratio: 2.372822 (Pixel Aspect Ratio: 0.998967)
+13:17:17:296 (00011112) > [Settings] Fullscreen display mode:
+13:17:17:296 (00011112) > [Settings] 	Display mode: 2560x1080@60
+13:17:17:296 (00011112) > [Settings] 		VSync: 1, TripleBuffer: 0
+13:17:17:296 (00011112) > [Settings] 		MultiMonitor: 0
+13:17:17:296 (00011112) > [Settings] 		BezelCorrected: 0
+13:17:17:296 (00011112) > [Settings] 		Stereoscopic3D: 0
+13:17:17:296 (00011112) > [Settings] Window settings:
+13:17:17:296 (00011112) > [Settings] 	Window rect: x: 560 y: 135 w: 1440 h: 810
+13:17:17:296 (00011112) > [Settings] 	User window: w: 1440 h: 810
+13:17:17:296 (00011112) > [Settings] 	Window maximized: 0
+13:17:17:296 (00011112) > [Settings] Graphics Options:
+13:17:17:296 (00011112) > [Settings] 	TextureQuality: 2, TextureFiltering: 2, ShadowQuality: 1
+13:17:17:296 (00011112) > [Settings] 	AO: 1, DOF: 1, FXAA: 0, SMAA: 0, SSAA: 0, Bloom: 1
+13:17:17:296 (00011112) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
+13:17:17:296 (00011112) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
+13:17:17:296 (00011112) > [Settings] 	Specular Reflection Quality: 0
+13:17:17:296 (00011112) > [Settings] 	FoliageQuality: 1
+13:17:17:296 (00011112) > [Settings] 	FOVCorrection :1.000000
+13:17:17:296 (00011112) > [Settings] 	LevelOfDetail: 2
+13:17:17:296 (00011112) > [Settings] 	StereoSeparation: 0.022500
+13:17:17:296 (00011112) > [Settings] 	StereoPopOut: 5.000000
+13:17:17:296 (00011112) > [Settings] 	StereoNearSeparationMultiplier :0.350000
+13:17:17:296 (00011112) > [Settings] End of settings.
+13:17:17:296 (00011112) > [Render] CROSSFIRE GPU count query failed, no multi-gpu optimizations.
+13:17:17:296 (00011112) > [NxApp (Render Thread)] Finished enforcing display settings
+13:17:17:298 (00018184) > [NxApp] Finished enforcing display settings
+13:17:17:298 (00018184) > [D3D] DX11RenderContext:---OnSettingsChanged ---
+13:17:17:298 (00018184) > [D3D] PCDX11SwapChain::Resize(2560, 1080, False)
+13:17:17:298 (00018184) > [D3D] PCDX11SwapChain::Resize no change
+13:17:32:073 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:17:32:197 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:17:32:212 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:18:05:032 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:18:05:214 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:18:05:214 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:18:05:384 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:18:05:525 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:18:23:512 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:18:32:197 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:18:32:314 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:18:32:326 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:19:32:319 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:19:32:451 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:19:32:463 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:20:23:495 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:20:24:398 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:20:24:413 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements refreshing player data for (5b4...3d8) [state: 3, force: player? true, definitions? false].
+13:20:24:428 (00018184) > [Epic] LogEOSAchievements: Achievement Unlocked - To: 000...65b
+13:20:24:428 (00018184) > [Epic] Achievement NEW_ACHIEVEMENT_17_5 unlocked at 1650885624
+13:20:24:550 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:20:24:565 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements data incomplete, starting next refresh for (5b4...3d8).
+13:20:24:565 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements refreshing definition data for (5b4...3d8) [state: 2, force: player? false, definitions? false].
+13:20:24:567 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements populated for (5b4...3d8).
+13:20:24:593 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:20:24:609 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:20:24:670 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:20:24:670 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:20:24:745 (00018184) > [Epic] LogEOSUI: Social Overlay: HandleDisplayUpdateIntent
+13:20:24:745 (00018184) > [Epic] LogEOSUI: Social Overlay: DisplayUpdateIntent{ Visible(TRUE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+13:20:24:745 (00018184) > [Epic] LogEOSUI: Social Overlay: New DisplaySettings{ Visible(TRUE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+13:20:24:746 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:20:24:746 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.SetDisplaySettings <Redacted>
+13:20:24:746 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:20:24:779 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:20:24:779 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:20:24:798 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:20:24:799 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:20:29:867 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:20:29:867 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:20:29:896 (00018184) > [Epic] LogEOSUI: Social Overlay: HandleDisplayUpdateIntent
+13:20:29:896 (00018184) > [Epic] LogEOSUI: Social Overlay: DisplayUpdateIntent{ Visible(FALSE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+13:20:29:896 (00018184) > [Epic] LogEOSUI: Social Overlay: New DisplaySettings{ Visible(FALSE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+13:20:29:896 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:20:29:896 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.SetDisplaySettings <Redacted>
+13:20:29:897 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:20:29:912 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:20:29:912 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:20:29:926 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:20:29:927 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:20:32:462 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:20:32:584 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:20:32:598 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:20:35:206 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:20:35:206 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:20:35:248 (00018184) > [Epic] LogEOSAnalytics: Record Event: eos.social.heartbeat <Redacted>
+13:20:35:248 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:20:35:248 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:20:35:263 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:20:35:277 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:20:35:277 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:20:35:304 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:20:46:324 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:20:50:840 (00018184) > [Epic] LogEOS: Updating Product SDK Config, Time: 387.494904
+13:20:50:961 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:20:50:974 (00018184) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+13:20:50:974 (00018184) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 387.615173, Update Interval: 344.613190
+13:21:24:405 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:21:32:595 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:21:32:727 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:21:32:740 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:21:46:332 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:21:50:964 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:22:23:495 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:22:26:713 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:22:32:740 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:22:32:873 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:22:32:886 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:23:26:715 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:23:32:874 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:23:33:008 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:23:33:021 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:24:23:476 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:24:33:021 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:24:33:153 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:24:33:168 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:24:33:747 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:24:33:940 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:24:34:233 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:24:34:409 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:24:34:543 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:25:32:937 (00018184) > [Epic] LogEOSPresence: Didn't update Presence for a while. Forcing Presence auto-update.
+13:25:32:937 (00018184) > [Epic] LogEOSPresence: Updating Presence to Online. LocalUserId=[5b4...3d8] RichText=[]
+13:25:33:076 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:25:33:162 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:25:33:275 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:25:33:291 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:25:33:748 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:25:33:946 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:25:34:243 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:25:34:410 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:25:34:556 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:25:35:218 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:25:35:218 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:25:35:258 (00018184) > [Epic] LogEOSAnalytics: Record Event: eos.social.heartbeat <Redacted>
+13:25:35:258 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:25:35:258 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:25:35:271 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:25:35:284 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:25:35:298 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:25:35:298 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:26:23:503 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:26:33:286 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:26:33:422 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:26:33:436 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:26:37:710 (00018184) > [Epic] LogEOS: Updating Product SDK Config, Time: 734.359558
+13:26:37:826 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:26:37:839 (00018184) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+13:26:37:839 (00018184) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 734.475037, Update Interval: 353.450134
+13:27:33:425 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:27:33:547 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:27:33:562 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:27:37:831 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:28:16:402 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:28:23:506 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:28:33:548 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:28:33:667 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:28:33:682 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:29:16:414 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:29:33:668 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:29:33:794 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:29:33:809 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:30:16:544 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:30:23:517 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:30:33:796 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:30:33:924 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:30:33:939 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:30:35:210 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:30:35:210 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:30:35:242 (00018184) > [Epic] LogEOSAnalytics: Record Event: eos.social.heartbeat <Redacted>
+13:30:35:242 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:30:35:242 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:30:35:257 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:30:35:274 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:30:35:274 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:30:35:274 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:31:16:550 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:31:33:927 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:31:34:052 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:31:34:066 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:32:23:538 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:32:34:053 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:32:34:170 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:32:34:186 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:32:35:651 (00018184) > [Epic] LogEOS: Updating Product SDK Config, Time: 1092.295288
+13:32:35:803 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:32:35:820 (00018184) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+13:32:35:820 (00018184) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1092.447266, Update Interval: 303.823364
+13:33:34:174 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:33:34:295 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:33:34:312 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:33:35:818 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:34:23:529 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:34:34:303 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:34:34:435 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:34:34:454 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:35:32:947 (00018184) > [Epic] LogEOSPresence: Didn't update Presence for a while. Forcing Presence auto-update.
+13:35:32:947 (00018184) > [Epic] LogEOSPresence: Updating Presence to Online. LocalUserId=[5b4...3d8] RichText=[]
+13:35:33:108 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:35:34:447 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:35:34:574 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:35:34:590 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:35:35:233 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:35:35:233 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:35:35:282 (00018184) > [Epic] LogEOSAnalytics: Record Event: eos.social.heartbeat <Redacted>
+13:35:35:282 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:35:35:282 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:35:35:297 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:35:35:313 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:35:35:313 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:35:35:328 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:36:10:199 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:367 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:480 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:592 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:663 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:677 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:677 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:677 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:691 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:705 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:719 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:734 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:734 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:748 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:776 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:790 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:790 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:790 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:790 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:790 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:805 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:819 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:832 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:860 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:10:874 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:23:526 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:34:582 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:36:34:728 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:36:34:741 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:37:10:207 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:37:10:207 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:37:34:737 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:37:34:874 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:37:34:888 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:37:54:107 (00018184) > [Epic] LogEOS: Updating Product SDK Config, Time: 1410.751709
+13:37:54:250 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:37:54:265 (00018184) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+13:37:54:265 (00018184) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1410.895386, Update Interval: 324.610138
+13:38:23:549 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:38:34:886 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:38:35:006 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:38:35:019 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:38:54:252 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:39:35:008 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:39:35:137 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:39:35:153 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:40:22:382 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:40:22:560 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:40:22:868 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:40:23:043 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:40:23:204 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:40:23:568 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:40:29:902 (00002868) > [DXGI] Resized swapchain.
+13:40:29:902 (00011112) > [GameWindow] UpdateState bVisible false
+13:40:29:907 (00011112) > [GameWindow] Invalidating rects.
+13:40:29:907 (00011112) > [Settings] New display settings are:
+13:40:29:907 (00011112) > [Settings] DirectX Version: 11
+13:40:29:907 (00011112) > [Settings] Window mode:
+13:40:29:907 (00011112) > [Settings] 	Fullscreen: 1
+13:40:29:907 (00011112) > [Settings] 	Excl.Fullscreen: 0
+13:40:29:907 (00011112) > [Settings] 	Monitor: 0
+13:40:29:907 (00011112) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 2560 h: 1080
+13:40:29:907 (00011112) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 2560 h: 1050
+13:40:29:907 (00011112) > [Settings] 		Aspect Ratio: 2.372822 (Pixel Aspect Ratio: 0.998967)
+13:40:29:907 (00011112) > [Settings] Fullscreen display mode:
+13:40:29:907 (00011112) > [Settings] 	Display mode: 2560x1080@60
+13:40:29:907 (00011112) > [Settings] 		VSync: 1, TripleBuffer: 0
+13:40:29:907 (00011112) > [Settings] 		MultiMonitor: 0
+13:40:29:907 (00011112) > [Settings] 		BezelCorrected: 0
+13:40:29:907 (00011112) > [Settings] 		Stereoscopic3D: 0
+13:40:29:907 (00011112) > [Settings] Window settings:
+13:40:29:907 (00011112) > [Settings] 	Window rect: x: 560 y: 135 w: 1440 h: 810
+13:40:29:907 (00011112) > [Settings] 	User window: w: 1440 h: 810
+13:40:29:907 (00011112) > [Settings] 	Window maximized: 0
+13:40:29:907 (00011112) > [Settings] Graphics Options:
+13:40:29:907 (00011112) > [Settings] 	TextureQuality: 2, TextureFiltering: 2, ShadowQuality: 1
+13:40:29:907 (00011112) > [Settings] 	AO: 1, DOF: 1, FXAA: 0, SMAA: 0, SSAA: 0, Bloom: 1
+13:40:29:907 (00011112) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
+13:40:29:907 (00011112) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
+13:40:29:907 (00011112) > [Settings] 	Specular Reflection Quality: 0
+13:40:29:907 (00011112) > [Settings] 	FoliageQuality: 1
+13:40:29:907 (00011112) > [Settings] 	FOVCorrection :1.000000
+13:40:29:908 (00011112) > [Settings] 	LevelOfDetail: 2
+13:40:29:908 (00011112) > [Settings] 	StereoSeparation: 0.022500
+13:40:29:908 (00011112) > [Settings] 	StereoPopOut: 5.000000
+13:40:29:908 (00011112) > [Settings] 	StereoNearSeparationMultiplier :0.350000
+13:40:29:908 (00011112) > [Settings] End of settings.
+13:40:29:908 (00011112) > [Render] CROSSFIRE GPU count query failed, no multi-gpu optimizations.
+13:40:29:908 (00011112) > [NxApp (Render Thread)] Finished enforcing display settings
+13:40:29:908 (00018184) > [NxApp] Finished enforcing display settings
+13:40:29:908 (00018184) > [D3D] DX11RenderContext:---OnSettingsChanged ---
+13:40:29:908 (00018184) > [D3D] PCDX11SwapChain::Resize(2560, 1080, False)
+13:40:29:908 (00018184) > [D3D] PCDX11SwapChain::Resize no change
+13:40:47:754 (00018184) > [Epic] LogEOS: Large tick time detected 17.8900
+13:40:47:754 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:40:47:754 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:40:47:754 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:40:47:789 (00018184) > [Epic] LogEOSAnalytics: Record Event: eos.social.heartbeat <Redacted>
+13:40:47:789 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:40:47:789 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:40:47:804 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:40:47:804 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:40:47:819 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:40:47:833 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:40:47:876 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:40:47:889 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:40:55:058 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:40:55:239 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:40:55:240 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:40:55:401 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:40:55:583 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:41:22:393 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:41:22:570 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:41:22:869 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:41:23:053 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:41:23:212 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:41:47:887 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:41:48:005 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:41:48:022 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:42:12:110 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:42:12:297 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:42:12:583 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:42:12:752 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:42:12:894 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:42:13:108 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:42:13:277 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:42:13:292 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:42:13:449 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:42:13:577 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:42:23:564 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:42:31:969 (00018184) > [Epic] LogEOSAchievements: Achievement Unlocked - To: 000...65b
+13:42:31:969 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements refreshing player data for (5b4...3d8) [state: 3, force: player? true, definitions? false].
+13:42:31:969 (00018184) > [Epic] Achievement NEW_ACHIEVEMENT_18_13 unlocked at 1650886951
+13:42:31:969 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:42:32:114 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:42:32:127 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements data incomplete, starting next refresh for (5b4...3d8).
+13:42:32:127 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements refreshing definition data for (5b4...3d8) [state: 2, force: player? false, definitions? false].
+13:42:32:128 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements populated for (5b4...3d8).
+13:42:32:426 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:42:32:440 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:42:32:469 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:42:32:469 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:42:32:511 (00018184) > [Epic] LogEOSUI: Social Overlay: HandleDisplayUpdateIntent
+13:42:32:511 (00018184) > [Epic] LogEOSUI: Social Overlay: DisplayUpdateIntent{ Visible(TRUE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+13:42:32:511 (00018184) > [Epic] LogEOSUI: Social Overlay: New DisplaySettings{ Visible(TRUE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+13:42:32:511 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:42:32:511 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.SetDisplaySettings <Redacted>
+13:42:32:511 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:42:32:534 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:42:32:546 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:42:32:546 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:42:32:560 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:42:37:670 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:42:37:670 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:42:37:714 (00018184) > [Epic] LogEOSUI: Social Overlay: HandleDisplayUpdateIntent
+13:42:37:714 (00018184) > [Epic] LogEOSUI: Social Overlay: DisplayUpdateIntent{ Visible(FALSE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+13:42:37:714 (00018184) > [Epic] LogEOSUI: Social Overlay: New DisplaySettings{ Visible(FALSE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+13:42:37:715 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:42:37:715 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.SetDisplaySettings <Redacted>
+13:42:37:715 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:42:37:728 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:42:37:743 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:42:37:757 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:42:37:757 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:42:48:013 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:42:48:140 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:42:48:152 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:43:12:121 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:43:12:298 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:43:12:585 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:43:12:764 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:43:12:901 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:43:31:970 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:43:37:052 (00018184) > [Epic] LogEOS: Updating Product SDK Config, Time: 1753.694946
+13:43:37:169 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:43:37:182 (00018184) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+13:43:37:183 (00018184) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1753.812012, Update Interval: 310.878632
+13:43:48:146 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:43:48:255 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:43:48:271 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:44:23:566 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:44:37:181 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:44:48:260 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:44:48:408 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:44:48:421 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:45:32:949 (00018184) > [Epic] LogEOSPresence: Didn't update Presence for a while. Forcing Presence auto-update.
+13:45:32:949 (00018184) > [Epic] LogEOSPresence: Updating Presence to Online. LocalUserId=[5b4...3d8] RichText=[]
+13:45:33:081 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:45:35:219 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:45:35:219 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:45:35:253 (00018184) > [Epic] LogEOSAnalytics: Record Event: eos.social.heartbeat <Redacted>
+13:45:35:253 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:45:35:253 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:45:35:269 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:45:35:285 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:45:35:285 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:45:35:285 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:45:48:413 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:45:48:519 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:45:48:534 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:46:23:586 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:46:48:520 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:46:48:636 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:46:48:651 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:47:48:644 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:47:48:782 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:47:48:797 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:48:23:618 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:48:48:795 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:48:48:917 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:48:48:932 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:49:20:159 (00018184) > [Epic] LogEOS: Updating Product SDK Config, Time: 2096.794678
+13:49:20:281 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:49:20:296 (00018184) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+13:49:20:296 (00018184) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2096.916504, Update Interval: 340.762360
+13:49:48:917 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:49:49:055 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:49:49:070 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:50:04:664 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:50:04:681 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements refreshing player data for (5b4...3d8) [state: 3, force: player? true, definitions? false].
+13:50:04:699 (00018184) > [Epic] LogEOSAchievements: Achievement Unlocked - To: 000...65b
+13:50:04:699 (00018184) > [Epic] Achievement NEW_ACHIEVEMENT_17_6 unlocked at 1650887404
+13:50:04:833 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:50:04:849 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements data incomplete, starting next refresh for (5b4...3d8).
+13:50:04:849 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements refreshing definition data for (5b4...3d8) [state: 2, force: player? false, definitions? false].
+13:50:04:850 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements populated for (5b4...3d8).
+13:50:05:307 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:50:05:324 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:50:05:357 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:50:05:357 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:50:05:403 (00018184) > [Epic] LogEOSUI: Social Overlay: HandleDisplayUpdateIntent
+13:50:05:404 (00018184) > [Epic] LogEOSUI: Social Overlay: DisplayUpdateIntent{ Visible(TRUE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+13:50:05:404 (00018184) > [Epic] LogEOSUI: Social Overlay: New DisplaySettings{ Visible(TRUE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+13:50:05:404 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:50:05:404 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.SetDisplaySettings <Redacted>
+13:50:05:404 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:50:05:420 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:50:05:436 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:50:05:436 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:50:05:436 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:50:10:564 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:50:10:564 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:50:10:600 (00018184) > [Epic] LogEOSUI: Social Overlay: HandleDisplayUpdateIntent
+13:50:10:600 (00018184) > [Epic] LogEOSUI: Social Overlay: DisplayUpdateIntent{ Visible(FALSE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+13:50:10:600 (00018184) > [Epic] LogEOSUI: Social Overlay: New DisplaySettings{ Visible(FALSE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+13:50:10:600 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:50:10:600 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.SetDisplaySettings <Redacted>
+13:50:10:600 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:50:10:616 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:50:10:635 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:50:10:635 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:50:10:651 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:50:20:284 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:50:23:605 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:50:35:222 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:50:35:222 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:50:35:257 (00018184) > [Epic] LogEOSAnalytics: Record Event: eos.social.heartbeat <Redacted>
+13:50:35:257 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:50:35:257 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:50:35:274 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:50:35:274 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:50:35:292 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:50:35:292 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:50:42:253 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:50:49:057 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:50:49:191 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:50:49:207 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:51:04:673 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:51:42:262 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:51:49:192 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:51:49:339 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:51:49:356 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:52:23:602 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:52:49:353 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:52:49:484 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:52:49:498 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:53:49:494 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:53:49:620 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:53:49:634 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:54:23:668 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:54:49:636 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:54:49:769 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:54:49:803 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:55:32:949 (00018184) > [Epic] LogEOSPresence: Didn't update Presence for a while. Forcing Presence auto-update.
+13:55:32:949 (00018184) > [Epic] LogEOSPresence: Updating Presence to Online. LocalUserId=[5b4...3d8] RichText=[]
+13:55:33:084 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:55:35:231 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:55:35:231 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:55:35:261 (00018184) > [Epic] LogEOSAnalytics: Record Event: eos.social.heartbeat <Redacted>
+13:55:35:261 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+13:55:35:261 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+13:55:35:276 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:55:35:292 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+13:55:35:307 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:55:35:307 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+13:55:49:785 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:55:49:929 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:55:49:947 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:55:59:358 (00018184) > [Epic] LogEOS: Updating Product SDK Config, Time: 2496.013916
+13:55:59:483 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:55:59:501 (00018184) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+13:55:59:501 (00018184) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2496.138672, Update Interval: 358.888519
+13:56:23:635 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:56:49:943 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:56:50:072 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:56:50:085 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:56:59:492 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:57:28:496 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:57:50:074 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:57:50:194 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:57:50:207 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:58:23:283 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:58:23:643 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:58:28:497 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+13:58:50:209 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:58:50:337 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:58:50:354 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+13:59:50:343 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+13:59:50:467 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+13:59:50:486 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+14:00:23:719 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:00:35:215 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+14:00:35:215 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+14:00:35:250 (00018184) > [Epic] LogEOSAnalytics: Record Event: eos.social.heartbeat <Redacted>
+14:00:35:250 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+14:00:35:250 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+14:00:35:268 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+14:00:35:284 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+14:00:35:284 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+14:00:35:301 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+14:00:50:478 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+14:00:50:616 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:00:50:634 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+14:01:50:623 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+14:01:50:746 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:01:50:764 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+14:02:23:667 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:02:50:290 (00018184) > [Epic] LogEOS: Updating Product SDK Config, Time: 2906.945557
+14:02:50:445 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:02:50:463 (00018184) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+14:02:50:463 (00018184) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2907.100830, Update Interval: 349.255035
+14:02:50:755 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+14:02:50:874 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:02:50:891 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+14:03:29:524 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:03:34:730 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:03:50:470 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+14:03:50:902 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+14:03:51:035 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:03:51:069 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+14:04:23:706 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:04:29:525 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+14:04:51:046 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+14:04:51:164 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:04:51:181 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+14:05:32:960 (00018184) > [Epic] LogEOSPresence: Didn't update Presence for a while. Forcing Presence auto-update.
+14:05:32:960 (00018184) > [Epic] LogEOSPresence: Updating Presence to Online. LocalUserId=[5b4...3d8] RichText=[]
+14:05:33:085 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:05:35:202 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+14:05:35:202 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+14:05:35:230 (00018184) > [Epic] LogEOSAnalytics: Record Event: eos.social.heartbeat <Redacted>
+14:05:35:230 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+14:05:35:230 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+14:05:35:243 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+14:05:35:257 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+14:05:35:271 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+14:05:35:271 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+14:05:51:174 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+14:05:51:309 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:05:51:322 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+14:06:18:174 (00018184) > [Epic] LogEOSAchievements: Achievement Unlocked - To: 000...65b
+14:06:18:174 (00018184) > [Epic] Achievement NEW_ACHIEVEMENT_3_3 unlocked at 1650888378
+14:06:18:174 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:06:18:559 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+14:06:18:577 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+14:06:18:594 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+14:06:18:594 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+14:06:18:627 (00018184) > [Epic] LogEOSUI: Social Overlay: HandleDisplayUpdateIntent
+14:06:18:627 (00018184) > [Epic] LogEOSUI: Social Overlay: DisplayUpdateIntent{ Visible(TRUE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+14:06:18:627 (00018184) > [Epic] LogEOSUI: Social Overlay: New DisplaySettings{ Visible(TRUE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+14:06:18:628 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements refreshing player data for (5b4...3d8) [state: 3, force: player? true, definitions? true].
+14:06:18:628 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+14:06:18:628 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.SetDisplaySettings <Redacted>
+14:06:18:628 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+14:06:18:658 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+14:06:18:658 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+14:06:18:674 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+14:06:18:690 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+14:06:18:794 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:06:18:810 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements data incomplete, starting next refresh for (5b4...3d8).
+14:06:18:810 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements refreshing definition data for (5b4...3d8) [state: 2, force: player? false, definitions? true].
+14:06:20:969 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:06:20:980 (00018184) > [Epic] LogEOSUI: Social Overlay: Achievements populated for (5b4...3d8).
+14:06:21:715 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+14:06:21:733 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+14:06:23:688 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:06:23:825 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+14:06:23:825 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+14:06:23:862 (00018184) > [Epic] LogEOSUI: Social Overlay: HandleDisplayUpdateIntent
+14:06:23:862 (00018184) > [Epic] LogEOSUI: Social Overlay: DisplayUpdateIntent{ Visible(FALSE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+14:06:23:862 (00018184) > [Epic] LogEOSUI: Social Overlay: New DisplaySettings{ Visible(FALSE) ExclusiveInput(FALSE) HitBox([(0,0)-(0,0)]) }
+14:06:23:862 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+14:06:23:862 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.SetDisplaySettings <Redacted>
+14:06:23:862 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+14:06:23:875 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+14:06:23:889 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+14:06:23:904 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+14:06:23:904 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+14:06:51:323 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+14:06:51:450 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:06:51:468 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+14:07:18:191 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+14:07:51:453 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+14:07:51:569 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:07:51:587 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+14:08:23:484 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:08:23:689 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:08:25:725 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:08:51:573 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+14:08:51:713 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:08:51:730 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+14:09:23:492 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+14:09:32:078 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:09:38:141 (00018184) > [Epic] LogEOS: Updating Product SDK Config, Time: 3314.784180
+14:09:38:289 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:09:38:303 (00018184) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+14:09:38:303 (00018184) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3314.931885, Update Interval: 340.106812
+14:09:51:721 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+14:09:51:844 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:09:51:859 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+14:10:23:690 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:10:32:087 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+14:10:35:237 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+14:10:35:237 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+14:10:35:280 (00018184) > [Epic] LogEOSAnalytics: Record Event: eos.social.heartbeat <Redacted>
+14:10:35:280 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+14:10:35:280 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+14:10:35:293 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+14:10:35:306 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+14:10:35:320 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+14:10:35:320 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+14:10:38:293 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+14:10:51:847 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+14:10:51:977 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:10:51:993 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+14:11:08:830 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:49:430 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:49:615 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:49:704 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:49:811 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:49:882 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:49:918 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:49:918 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:49:918 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:49:969 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:49:969 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:49:969 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:49:987 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:49:987 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:50:005 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:50:005 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:50:024 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:50:024 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:50:041 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:50:042 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:50:042 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:50:060 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:50:060 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:50:060 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:50:078 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:50:079 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:51:978 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+14:11:52:106 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:11:52:122 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+14:12:08:843 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+14:12:08:843 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+14:12:23:712 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:13:27:890 (00018184) > [Epic] LogEOS: Large tick time detected 56.0298
+14:13:27:890 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+14:13:28:033 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:13:28:047 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+14:13:32:545 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:13:32:559 (00018184) > [Epic] LogEOSP2P: Applying updated RTC Configuration
+14:13:35:364 (00018184) > [Input] Gamepads connected: 1 -> 0
+14:13:35:364 (00018184) > [Input] Gamepad for main player: -1
+14:13:38:379 (00018184) > [Input] Gamepads connected: 0 -> 1
+14:13:38:379 (00018184) > [Input] Gamepad for main player: 0
+14:13:55:968 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:14:00:716 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:14:00:732 (00018184) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+14:14:00:828 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:14:00:845 (00018184) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+14:14:01:070 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:14:01:071 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:14:01:071 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:14:01:087 (00018184) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+14:14:01:087 (00018184) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+14:14:01:087 (00018184) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+14:14:17:747 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:14:23:705 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:14:28:046 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+14:14:28:171 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:14:28:186 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+14:14:31:421 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:14:55:976 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+14:15:00:726 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+14:15:00:726 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+14:15:03:960 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:15:28:176 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+14:15:28:296 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:15:28:309 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+14:15:32:964 (00018184) > [Epic] LogEOSPresence: Didn't update Presence for a while. Forcing Presence auto-update.
+14:15:32:964 (00018184) > [Epic] LogEOSPresence: Updating Presence to Online. LocalUserId=[5b4...3d8] RichText=[]
+14:15:33:097 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:15:35:219 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+14:15:35:219 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+14:15:35:259 (00018184) > [Epic] LogEOSAnalytics: Record Event: eos.social.heartbeat <Redacted>
+14:15:35:259 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.ExecuteJavascriptFunction <Redacted>
+14:15:35:259 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.InvokeJavascriptCallback <Redacted>
+14:15:35:272 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+14:15:35:285 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.ClientApi.EvaluateJS <Redacted>
+14:15:35:285 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+14:15:35:285 (00018184) > [Epic] LogEOSAnalytics: Record Event: Overlay.MessageHandler.EvaluateJavascriptResult <Redacted>
+14:15:49:309 (00018184) > [Epic] LogEOS: Updating Product SDK Config, Time: 3685.960693
+14:15:49:434 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:15:49:448 (00018184) > [Epic] LogEOS: SDK Config Product Update Request Completed - No Change
+14:15:49:448 (00018184) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3686.085693, Update Interval: 303.134857
+14:16:03:969 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+14:16:15:908 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:16:23:713 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:16:28:305 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+14:16:28:423 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:16:28:436 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+14:16:49:445 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+14:17:15:918 (00018184) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+14:17:28:425 (00018184) > [Epic] LogEOSAuth: Sending Verify Auth request. url=<Redacted>
+14:17:28:558 (00018184) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:17:28:572 (00018184) > [Epic] LogEOSAuth: Verify Auth Success
+14:18:23:466 (00018184) > [Crash] Memory statistics:
+14:18:23:466 (00018184) > [Crash]   Total RAM = 15.9 GB (16332 MB)
+14:18:23:466 (00018184) > [Crash]   Avail RAM = 7.7 GB (7842 MB)
+14:18:23:466 (00018184) > [Crash]   Total virtual memory = 131072.0 GB (134217727 MB)
+14:18:23:466 (00018184) > [Crash]   Avail virtual memory = 131060.1 GB (134205509 MB)
+14:18:23:466 (00018184) > [Crash] Unhandled exception at address 0x00000000dbb3326c (code: 0xc0000005): "Access violation"
